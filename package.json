@@ -13,7 +13,7 @@
     "styled-components": "^5.2.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "https://github.com/awuuu0716/react-todo-list",
+  "homepage": "https://awuuu0716.github.io/react-todo-list",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
